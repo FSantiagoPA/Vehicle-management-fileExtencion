@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Persons>
+        
+    <Person driverId="PersonA" yearOfBirth="2004">
+                
+        <Name>c/Pez 1ºA</Name>
+                
+        <Address>Sergio Alejo</Address>
+                
+        <Age>21</Age>
+            
+    </Person>
+        
+    <Person driverId="PersonB" yearOfBirth="2006">
+                
+        <Name>c/Pez 1ºB</Name>
+                
+        <Address>Elia Bastian</Address>
+                
+        <Age>19</Age>
+            
+    </Person>
+        
+    <Person driverId="PersonC" yearOfBirth="2005">
+                
+        <Name>c/Pez 1ºC</Name>
+                
+        <Address>Juan Clase</Address>
+                
+        <Age>20</Age>
+            
+    </Person>
+    
+</Persons>
